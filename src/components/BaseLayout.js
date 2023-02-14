@@ -1,3 +1,4 @@
+/*eslint-disable no-eval */
 import React, {useEffect, useState} from 'react';
 import Style from './BaseLayout.module.scss'
 import Navbar from "./Navbar";
@@ -19,7 +20,7 @@ export default function BaseLayout() {
 
    useEffect(() => {
       let detectedDarkMode = eval(localStorage.getItem('darkMode'));
-
+      //eslint-disable-next-line
       if (detectedDarkMode) {
          setDarkMode(detectedDarkMode)
       } else {
