@@ -15,8 +15,7 @@ jobs:
         run: sudo apt-get install npm
       
       - name: Entering the Folder
-      - run: 
-              cd Portifolio-Website-2
+      - run: cd Portifolio-Website-2
       
       - name: Build
         run: 
