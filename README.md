@@ -38,9 +38,9 @@ you can preview the live preview by clicking [here]().
 
 # Code Contribution:
 - If you like this project, then fork it or give it a star.
-- The [Development Branch]() will house all contributors and development. No code will be added to the main branch during the testing of the project.
-- If you find a bug, use the issue template [template]() to create a new issue.
-- If you have a new idea for this project, you can open a feature request using the [template]() method.  
+- The [Development Branch](https://github.com/rafay99-epic/Portfolio-Website-2/tree/Development-Branch) will house all contributors and development. No code will be added to the main branch during the testing of the project.
+- If you find a bug, use the issue template [template](\.github\ISSUE_TEMPLATE\bug_report.md) to create a new issue.
+- If you have a new idea for this project, you can open a feature request using the [template](.github\ISSUE_TEMPLATE\feature_request.md) method.  
 
 **Happy Coding Everyone 🤗**
 
