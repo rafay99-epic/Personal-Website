@@ -22,7 +22,7 @@ export const info = {
         },
         {
             emoji: '🌎',
-            text: 'based in the PK'
+            text: 'I am from Pakistan'
         },
         {
             emoji: "💼",
